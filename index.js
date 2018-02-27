@@ -22,4 +22,5 @@ var funkyFunction = function() {
 }
 
 
-var theFunk = function();
+var a = funkyFunction();
+var theFunk = a;
